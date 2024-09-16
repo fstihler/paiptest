@@ -3,7 +3,7 @@
 import Link from 'next/link'
 import { ArrowRight } from 'lucide-react'
 
-export default function ConfigPage() {
+export function ConfigPage() {
   return (
     <div className="min-h-screen bg-gray-100 flex flex-col justify-center items-center px-4 sm:px-6 lg:px-8">
       <div className="max-w-3xl w-full space-y-8 text-center">
