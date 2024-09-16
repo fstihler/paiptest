@@ -17,7 +17,7 @@ export function Page() {
         <div className="mt-8">
           <Link 
             href="/extract" 
-            className="inline-flex items-center px-6 py-3 border border-transparent text-base font-medium rounded-md text-white bg-blue-600 hover:bg-blue-700"
+            className="inline-flex items-center px-6 py-3 border border-transparent text-base font-medium rounded-md text-white bg-orange-600 hover:bg-orange-700"
           >
             Get Started
             <ArrowRight className="ml-2 -mr-1 h-5 w-5" aria-hidden="true" />
